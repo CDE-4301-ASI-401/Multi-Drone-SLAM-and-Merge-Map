@@ -1,0 +1,28 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yanyew/mapping/install/ros_gz_crazyflie_control/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/merge_map/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages",
+        "/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/crazyflie_examples/local/lib/python3.10/dist-packages",
+        "/home/yanyew/mapping/install/crazyflie_py/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/crazyflie_launch/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/crazyflie_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/yanyew/mapping/install/ros_gz_crazyflie_control/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/merge_map/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages",
+        "/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/crazyflie_examples/local/lib/python3.10/dist-packages",
+        "/home/yanyew/mapping/install/crazyflie_py/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/crazyflie_launch/lib/python3.10/site-packages",
+        "/home/yanyew/mapping/install/crazyflie_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,41 @@
+[2.681s] Invoking command in '/home/yanyew/mapping/src/merge_map': PYTHONPATH=/home/yanyew/mapping/build/merge_map/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/mapping/install/merge_map/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/merge_map build --build-base /home/yanyew/mapping/build/merge_map/build install --record /home/yanyew/mapping/build/merge_map/install.log --single-version-externally-managed install_data
+[3.203s] running egg_info
+[3.204s] creating ../../build/merge_map/merge_map.egg-info
+[3.204s] writing ../../build/merge_map/merge_map.egg-info/PKG-INFO
+[3.205s] writing dependency_links to ../../build/merge_map/merge_map.egg-info/dependency_links.txt
+[3.205s] writing entry points to ../../build/merge_map/merge_map.egg-info/entry_points.txt
+[3.205s] writing requirements to ../../build/merge_map/merge_map.egg-info/requires.txt
+[3.205s] writing top-level names to ../../build/merge_map/merge_map.egg-info/top_level.txt
+[3.206s] writing manifest file '../../build/merge_map/merge_map.egg-info/SOURCES.txt'
+[3.208s] reading manifest file '../../build/merge_map/merge_map.egg-info/SOURCES.txt'
+[3.209s] writing manifest file '../../build/merge_map/merge_map.egg-info/SOURCES.txt'
+[3.209s] running build
+[3.210s] running build_py
+[3.211s] creating /home/yanyew/mapping/build/merge_map/build
+[3.211s] creating /home/yanyew/mapping/build/merge_map/build/lib
+[3.211s] creating /home/yanyew/mapping/build/merge_map/build/lib/merge_map
+[3.212s] copying merge_map/__init__.py -> /home/yanyew/mapping/build/merge_map/build/lib/merge_map
+[3.213s] copying merge_map/merge_map.py -> /home/yanyew/mapping/build/merge_map/build/lib/merge_map
+[3.214s] running install
+[3.214s] running install_lib
+[3.215s] creating /home/yanyew/mapping/install/merge_map/lib/python3.10/site-packages/merge_map
+[3.215s] copying /home/yanyew/mapping/build/merge_map/build/lib/merge_map/__init__.py -> /home/yanyew/mapping/install/merge_map/lib/python3.10/site-packages/merge_map
+[3.215s] copying /home/yanyew/mapping/build/merge_map/build/lib/merge_map/merge_map.py -> /home/yanyew/mapping/install/merge_map/lib/python3.10/site-packages/merge_map
+[3.216s] byte-compiling /home/yanyew/mapping/install/merge_map/lib/python3.10/site-packages/merge_map/__init__.py to __init__.cpython-310.pyc
+[3.216s] byte-compiling /home/yanyew/mapping/install/merge_map/lib/python3.10/site-packages/merge_map/merge_map.py to merge_map.cpython-310.pyc
+[3.216s] running install_data
+[3.216s] creating /home/yanyew/mapping/install/merge_map/share/ament_index
+[3.216s] creating /home/yanyew/mapping/install/merge_map/share/ament_index/resource_index
+[3.216s] creating /home/yanyew/mapping/install/merge_map/share/ament_index/resource_index/packages
+[3.216s] copying resource/merge_map -> /home/yanyew/mapping/install/merge_map/share/ament_index/resource_index/packages
+[3.216s] copying package.xml -> /home/yanyew/mapping/install/merge_map/share/merge_map
+[3.217s] creating /home/yanyew/mapping/install/merge_map/share/merge_map/launch
+[3.217s] copying launch/merge_map_launch.py -> /home/yanyew/mapping/install/merge_map/share/merge_map/launch
+[3.217s] creating /home/yanyew/mapping/install/merge_map/share/merge_map/config
+[3.217s] copying config/merge_map.rviz -> /home/yanyew/mapping/install/merge_map/share/merge_map/config
+[3.217s] running install_egg_info
+[3.218s] Copying ../../build/merge_map/merge_map.egg-info to /home/yanyew/mapping/install/merge_map/lib/python3.10/site-packages/merge_map-0.0.0-py3.10.egg-info
+[3.219s] running install_scripts
+[3.249s] Installing merge_map script to /home/yanyew/mapping/install/merge_map/lib/merge_map
+[3.249s] writing list of installed files to '/home/yanyew/mapping/build/merge_map/install.log'
+[3.292s] Invoked command in '/home/yanyew/mapping/src/merge_map' returned '0': PYTHONPATH=/home/yanyew/mapping/build/merge_map/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/mapping/install/merge_map/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/merge_map build --build-base /home/yanyew/mapping/build/merge_map/build install --record /home/yanyew/mapping/build/merge_map/install.log --single-version-externally-managed install_data

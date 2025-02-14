@@ -1,0 +1,10 @@
+digraph G {
+"cf09/odom" -> "cf09"[label=" Broadcaster: default_authority\nAverage rate: 20.218\nBuffer length: 4.995\nMost recent transform: 1739512214.385603\nOldest transform: 1739512209.390135\n"];
+"map" -> "cf09/odom"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"map" -> "cf14/odom"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"map" -> "cf14"[label=" Broadcaster: default_authority\nAverage rate: 20.219\nBuffer length: 4.995\nMost recent transform: 1739512214.444384\nOldest transform: 1739512209.449129\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1739512214.449504"[ shape=plaintext ] ;
+}->"map";
+}

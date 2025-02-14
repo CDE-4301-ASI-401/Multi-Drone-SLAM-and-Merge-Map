@@ -1,0 +1,77 @@
+[0.555s] Invoking command in '/home/yanyew/mapping/build/crazyflie': AMENT_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/yanyew/mapping/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/yanyew/mapping/build/crazyflie -- -j12 -l12
+[0.647s] [ 22%] Built target crazyflieLinkCpp
+[0.653s] [ 27%] Built target teleop
+[0.690s] [ 35%] Built target crazyflie_cpp
+[0.789s] [ 40%] Built target crazyflie_server
+[0.797s] [ 45%] Built target listParams
+[0.799s] [ 50%] Built target listMemories
+[0.802s] [ 55%] Built target scan
+[0.805s] [ 60%] Built target listLogVariables
+[0.811s] [ 65%] Built target reboot
+[0.812s] [ 70%] Built target version
+[0.813s] [ 75%] Built target battery
+[0.818s] [ 82%] Built target comCheck
+[0.819s] [ 85%] Built target console
+[0.821s] [ 90%] Built target downloadUSDLogfile
+[0.821s] [ 95%] Built target log
+[0.876s] [100%] Built target setParam
+[0.901s] Invoked command in '/home/yanyew/mapping/build/crazyflie' returned '0': AMENT_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/yanyew/mapping/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/yanyew/mapping/build/crazyflie -- -j12 -l12
+[0.908s] Invoking command in '/home/yanyew/mapping/build/crazyflie': AMENT_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/yanyew/mapping/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/yanyew/mapping/build/crazyflie
+[0.920s] -- Install configuration: ""
+[0.923s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/comCheck
+[0.925s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/scan
+[0.925s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/listParams
+[0.925s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/listLogVariables
+[0.926s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/listMemories
+[0.928s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/reboot
+[0.928s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/battery
+[0.930s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/version
+[0.930s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/console
+[0.930s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/log
+[0.930s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/setParam
+[0.930s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/downloadUSDLogfile
+[0.932s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/teleop
+[0.933s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/crazyflie_server
+[0.933s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/crazyflie_server.py
+[0.933s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/chooser.py
+[0.934s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/vel_mux.py
+[0.934s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/cfmult.py
+[0.934s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/simple_mapper_multiranger.py
+[0.934s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/aideck_streamer.py
+[0.935s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/gui.py
+[0.935s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/lib/crazyflie/flash.py
+[0.935s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//launch
+[0.935s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//launch/launch_teleop2.py
+[0.935s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//launch/launch(Feb 13).py
+[0.935s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//launch/default_swarm_map.launch.py
+[0.935s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//launch/launch.py
+[0.935s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//launch/teleop_launch.py
+[0.936s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//launch/swarm_mapping.launch.py
+[0.936s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//config
+[0.936s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//config/aideck_streamer.yaml
+[0.936s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//config/config.rviz
+[0.936s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//config/crazyflies.yaml
+[0.936s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//config/teleop.yaml
+[0.936s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//config/server.yaml
+[0.936s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//config/config copy.rviz
+[0.937s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//config/motion_capture.yaml
+[0.937s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//urdf
+[0.937s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//urdf/cf2_assembly_with_props.dae
+[0.937s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//urdf/crazyflie_description.urdf
+[0.938s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie//urdf/cf2_assembly.stl
+[0.938s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/ament_index/resource_index/package_run_dependencies/crazyflie
+[0.938s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/ament_index/resource_index/parent_prefix_path/crazyflie
+[0.938s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/environment/ament_prefix_path.sh
+[0.938s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/environment/ament_prefix_path.dsv
+[0.938s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/environment/path.sh
+[0.938s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/environment/path.dsv
+[0.938s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/local_setup.bash
+[0.939s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/local_setup.sh
+[0.939s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/local_setup.zsh
+[0.939s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/local_setup.dsv
+[0.939s] -- Installing: /home/yanyew/mapping/install/crazyflie/share/crazyflie/package.dsv
+[0.939s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/ament_index/resource_index/packages/crazyflie
+[0.939s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/cmake/crazyflieConfig.cmake
+[0.939s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/cmake/crazyflieConfig-version.cmake
+[0.939s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie/share/crazyflie/package.xml
+[0.943s] Invoked command in '/home/yanyew/mapping/build/crazyflie' returned '0': AMENT_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/yanyew/mapping/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/yanyew/mapping/build/crazyflie

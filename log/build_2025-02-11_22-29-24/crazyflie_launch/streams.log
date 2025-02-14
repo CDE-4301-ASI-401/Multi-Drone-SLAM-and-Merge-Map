@@ -1,0 +1,21 @@
+[1.986s] Invoking command in '/home/yanyew/mapping/src/crazyflie_launch': PYTHONPATH=/home/yanyew/mapping/build/crazyflie_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/mapping/install/crazyflie_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/crazyflie_launch build --build-base /home/yanyew/mapping/build/crazyflie_launch/build install --record /home/yanyew/mapping/build/crazyflie_launch/install.log --single-version-externally-managed install_data
+[2.467s] running egg_info
+[2.468s] writing ../../build/crazyflie_launch/crazyflie_launch.egg-info/PKG-INFO
+[2.468s] writing dependency_links to ../../build/crazyflie_launch/crazyflie_launch.egg-info/dependency_links.txt
+[2.468s] writing entry points to ../../build/crazyflie_launch/crazyflie_launch.egg-info/entry_points.txt
+[2.468s] writing requirements to ../../build/crazyflie_launch/crazyflie_launch.egg-info/requires.txt
+[2.468s] writing top-level names to ../../build/crazyflie_launch/crazyflie_launch.egg-info/top_level.txt
+[2.470s] reading manifest file '../../build/crazyflie_launch/crazyflie_launch.egg-info/SOURCES.txt'
+[2.471s] writing manifest file '../../build/crazyflie_launch/crazyflie_launch.egg-info/SOURCES.txt'
+[2.471s] running build
+[2.471s] running build_py
+[2.471s] running install
+[2.471s] running install_lib
+[2.473s] running install_data
+[2.473s] copying launch/swarm_mapping.launch.py -> /home/yanyew/mapping/install/crazyflie_launch/share/crazyflie_launch/launch
+[2.473s] running install_egg_info
+[2.475s] removing '/home/yanyew/mapping/install/crazyflie_launch/lib/python3.10/site-packages/crazyflie_launch-0.0.0-py3.10.egg-info' (and everything under it)
+[2.475s] Copying ../../build/crazyflie_launch/crazyflie_launch.egg-info to /home/yanyew/mapping/install/crazyflie_launch/lib/python3.10/site-packages/crazyflie_launch-0.0.0-py3.10.egg-info
+[2.476s] running install_scripts
+[2.497s] writing list of installed files to '/home/yanyew/mapping/build/crazyflie_launch/install.log'
+[2.523s] Invoked command in '/home/yanyew/mapping/src/crazyflie_launch' returned '0': PYTHONPATH=/home/yanyew/mapping/build/crazyflie_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/mapping/install/crazyflie_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/crazyflie_launch build --build-base /home/yanyew/mapping/build/crazyflie_launch/build install --record /home/yanyew/mapping/build/crazyflie_launch/install.log --single-version-externally-managed install_data

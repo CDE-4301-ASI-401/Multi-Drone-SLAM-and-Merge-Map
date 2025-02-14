@@ -1,0 +1,1 @@
+Invoking command in '/home/yanyew/mapping/build/crazyflie_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yanyew/mapping/src/crazyswarm2/crazyflie_interfaces -DBUILD_TESTING=ON -DCMAKE_INSTALL_PREFIX=/home/yanyew/mapping/install/crazyflie_interfaces
