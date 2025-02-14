@@ -1,0 +1,22 @@
+[0.031s] Invoking command in '/home/yanyew/mapping/build/ros_gz_crazyflie_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yanyew/mapping/build/ros_gz_crazyflie_gazebo -- -j12 -l12
+[1.484s] Invoked command in '/home/yanyew/mapping/build/ros_gz_crazyflie_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yanyew/mapping/build/ros_gz_crazyflie_gazebo -- -j12 -l12
+[1.493s] Invoking command in '/home/yanyew/mapping/build/ros_gz_crazyflie_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yanyew/mapping/build/ros_gz_crazyflie_gazebo
+[1.500s] -- Install configuration: ""
+[1.500s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/worlds
+[1.501s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/worlds/crazyflie_world.sdf
+[1.502s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ament_index/resource_index/package_run_dependencies/ros_gz_crazyflie_gazebo
+[1.503s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ament_index/resource_index/parent_prefix_path/ros_gz_crazyflie_gazebo
+[1.503s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/environment/ament_prefix_path.sh
+[1.503s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/environment/ament_prefix_path.dsv
+[1.504s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/environment/path.sh
+[1.504s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/environment/path.dsv
+[1.504s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/local_setup.bash
+[1.504s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/local_setup.sh
+[1.504s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/local_setup.zsh
+[1.504s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/local_setup.dsv
+[1.504s] -- Installing: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/package.dsv
+[1.505s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ament_index/resource_index/packages/ros_gz_crazyflie_gazebo
+[1.507s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/cmake/ros_gz_crazyflie_gazeboConfig.cmake
+[1.508s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/cmake/ros_gz_crazyflie_gazeboConfig-version.cmake
+[1.508s] -- Up-to-date: /home/yanyew/mapping/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/package.xml
+[1.566s] Invoked command in '/home/yanyew/mapping/build/ros_gz_crazyflie_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yanyew/mapping/build/ros_gz_crazyflie_gazebo

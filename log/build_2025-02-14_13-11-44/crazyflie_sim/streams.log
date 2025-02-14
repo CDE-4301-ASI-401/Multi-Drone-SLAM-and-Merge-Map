@@ -1,0 +1,108 @@
+[0.570s] Invoking command in '/home/yanyew/mapping/build/crazyflie_sim': CMAKE_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_gazebo:/home/yanyew/mapping/install/crazyflie_sim:/home/yanyew/mapping/install/crazyflie_examples:/home/yanyew/mapping/install/crazyflie:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins /usr/bin/cmake --build /home/yanyew/mapping/build/crazyflie_sim -- -j12 -l12
+[0.643s] Built target ament_cmake_python_copy_crazyflie_sim_setup
+[0.655s] Built target ament_cmake_python_copy_crazyflie_sim
+[1.082s] running install_scripts
+[1.085s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.085s]   warnings.warn(
+[1.165s] running egg_info
+[1.175s] writing crazyflie_sim.egg-info/PKG-INFO
+[1.176s] writing dependency_links to crazyflie_sim.egg-info/dependency_links.txt
+[1.176s] writing entry points to crazyflie_sim.egg-info/entry_points.txt
+[1.176s] writing top-level names to crazyflie_sim.egg-info/top_level.txt
+[1.187s] reading manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[1.188s] writing manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[1.195s] Installing crazyflie_server script to scripts
+[1.199s] running egg_info
+[1.206s] writing crazyflie_sim.egg-info/PKG-INFO
+[1.206s] writing dependency_links to crazyflie_sim.egg-info/dependency_links.txt
+[1.206s] writing entry points to crazyflie_sim.egg-info/entry_points.txt
+[1.206s] writing top-level names to crazyflie_sim.egg-info/top_level.txt
+[1.210s] reading manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[1.210s] writing manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[1.319s] Built target ament_cmake_python_build_crazyflie_sim_egg
+[1.326s] Built target ament_cmake_python_build_crazyflie_sim_scripts
+[1.360s] Invoked command in '/home/yanyew/mapping/build/crazyflie_sim' returned '0': CMAKE_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_gazebo:/home/yanyew/mapping/install/crazyflie_sim:/home/yanyew/mapping/install/crazyflie_examples:/home/yanyew/mapping/install/crazyflie:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins /usr/bin/cmake --build /home/yanyew/mapping/build/crazyflie_sim -- -j12 -l12
+[1.362s] Invoking command in '/home/yanyew/mapping/build/crazyflie_sim': CMAKE_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_gazebo:/home/yanyew/mapping/install/crazyflie_sim:/home/yanyew/mapping/install/crazyflie_examples:/home/yanyew/mapping/install/crazyflie:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins /usr/bin/cmake --install /home/yanyew/mapping/build/crazyflie_sim
+[1.377s] -- Install configuration: ""
+[1.377s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/environment/pythonpath.sh
+[1.377s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/environment/pythonpath.dsv
+[1.377s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info
+[1.377s] -- Installing: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/PKG-INFO
+[1.378s] -- Installing: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/top_level.txt
+[1.378s] -- Installing: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/entry_points.txt
+[1.378s] -- Installing: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/dependency_links.txt
+[1.378s] -- Installing: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/SOURCES.txt
+[1.378s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/lib/crazyflie_sim/
+[1.378s] -- Installing: /home/yanyew/mapping/install/crazyflie_sim/lib/crazyflie_sim//crazyflie_server
+[1.379s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim
+[1.379s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/__init__.py
+[1.379s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_sil.py
+[1.380s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_server.py
+[1.381s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization
+[1.381s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/pdf.py
+[1.381s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data
+[1.381s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model
+[1.382s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model/cf.obj
+[1.382s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model/cf.mtl
+[1.382s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/README.md
+[1.382s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env
+[1.382s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/abandoned_greenhouse.jpg
+[1.383s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/lago_disola.jpg
+[1.383s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/derelict_overpass.jpg
+[1.383s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/crosswalk.jpg
+[1.383s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/env.jpg
+[1.383s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/aviation_museum.jpg
+[1.383s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/lake_pier.jpg
+[1.383s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/peppermint_powerplant.jpg
+[1.384s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/machine_shop.jpg
+[1.385s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/studio_garden.jpg
+[1.386s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/museumplein.jpg
+[1.386s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/aerodynamics_workshop.jpg
+[1.386s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/record_states.py
+[1.387s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/README.md
+[1.387s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/rviz.py
+[1.387s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/blender.py
+[1.387s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend
+[1.387s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/dynobench.py
+[1.387s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/neuralswarm.py
+[1.387s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data
+[1.387s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/pinocchio
+[1.387s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/pinocchio/crazyflie2.urdf
+[1.388s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/dynobench
+[1.388s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/dynobench/crazyflie2.yaml
+[1.388s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2
+[1.388s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2/rho_S.pth
+[1.388s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2/rho_L.pth
+[1.388s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2/phi_S.pth
+[1.389s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2/phi_G.pth
+[1.389s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2/phi_L.pth
+[1.389s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/np.py
+[1.390s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/none.py
+[1.391s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/pinocchio.py
+[1.392s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/sim_data_types.py
+[1.418s] Listing '/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim'...
+[1.418s] Listing '/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend'...
+[1.418s] Listing '/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data'...
+[1.418s] Listing '/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/dynobench'...
+[1.419s] Listing '/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2'...
+[1.419s] Listing '/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/pinocchio'...
+[1.419s] Listing '/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization'...
+[1.419s] Listing '/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data'...
+[1.419s] Listing '/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env'...
+[1.419s] Listing '/home/yanyew/mapping/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model'...
+[1.427s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/ament_index/resource_index/package_run_dependencies/crazyflie_sim
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/ament_index/resource_index/parent_prefix_path/crazyflie_sim
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/environment/ament_prefix_path.sh
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/environment/ament_prefix_path.dsv
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/environment/path.sh
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/environment/path.dsv
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/local_setup.bash
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/local_setup.sh
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/local_setup.zsh
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/local_setup.dsv
+[1.428s] -- Installing: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/package.dsv
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/ament_index/resource_index/packages/crazyflie_sim
+[1.428s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/cmake/crazyflie_simConfig.cmake
+[1.429s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/cmake/crazyflie_simConfig-version.cmake
+[1.429s] -- Up-to-date: /home/yanyew/mapping/install/crazyflie_sim/share/crazyflie_sim/package.xml
+[1.431s] Invoked command in '/home/yanyew/mapping/build/crazyflie_sim' returned '0': CMAKE_PREFIX_PATH=/home/yanyew/mapping/install/crazyflie_interfaces:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_gazebo:/home/yanyew/mapping/install/crazyflie_sim:/home/yanyew/mapping/install/crazyflie_examples:/home/yanyew/mapping/install/crazyflie:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins /usr/bin/cmake --install /home/yanyew/mapping/build/crazyflie_sim

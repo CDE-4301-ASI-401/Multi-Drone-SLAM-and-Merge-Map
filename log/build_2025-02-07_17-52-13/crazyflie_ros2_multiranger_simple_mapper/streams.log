@@ -1,0 +1,37 @@
+[1.249s] Invoking command in '/home/yanyew/mapping/src/crazyflie_ros2_multiranger/crazyflie_ros2_multiranger_simple_mapper': PYTHONPATH=/home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/crazyflie_ros2_multiranger_simple_mapper build --build-base /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/build install --record /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/install.log --single-version-externally-managed install_data
+[1.673s] running egg_info
+[1.674s] creating ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info
+[1.674s] writing ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/PKG-INFO
+[1.674s] writing dependency_links to ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/dependency_links.txt
+[1.675s] writing entry points to ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/entry_points.txt
+[1.675s] writing requirements to ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/requires.txt
+[1.675s] writing top-level names to ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/top_level.txt
+[1.675s] writing manifest file '../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/SOURCES.txt'
+[1.676s] reading manifest file '../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/SOURCES.txt'
+[1.677s] writing manifest file '../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/SOURCES.txt'
+[1.677s] running build
+[1.678s] running build_py
+[1.678s] creating /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/build
+[1.678s] creating /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/build/lib
+[1.678s] creating /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/build/lib/crazyflie_ros2_multiranger_simple_mapper
+[1.678s] copying crazyflie_ros2_multiranger_simple_mapper/__init__.py -> /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/build/lib/crazyflie_ros2_multiranger_simple_mapper
+[1.678s] copying crazyflie_ros2_multiranger_simple_mapper/simple_mapper_multiranger.py -> /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/build/lib/crazyflie_ros2_multiranger_simple_mapper
+[1.678s] running install
+[1.678s] running install_lib
+[1.679s] creating /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper
+[1.679s] copying /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/build/lib/crazyflie_ros2_multiranger_simple_mapper/__init__.py -> /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper
+[1.679s] copying /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/build/lib/crazyflie_ros2_multiranger_simple_mapper/simple_mapper_multiranger.py -> /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper
+[1.680s] byte-compiling /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper/__init__.py to __init__.cpython-310.pyc
+[1.680s] byte-compiling /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper/simple_mapper_multiranger.py to simple_mapper_multiranger.cpython-310.pyc
+[1.681s] running install_data
+[1.681s] creating /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/share/ament_index
+[1.681s] creating /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/share/ament_index/resource_index
+[1.681s] creating /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/share/ament_index/resource_index/packages
+[1.682s] copying resource/crazyflie_ros2_multiranger_simple_mapper -> /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/share/ament_index/resource_index/packages
+[1.682s] copying package.xml -> /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/share/crazyflie_ros2_multiranger_simple_mapper
+[1.682s] running install_egg_info
+[1.683s] Copying ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info to /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper-0.0.0-py3.10.egg-info
+[1.684s] running install_scripts
+[1.703s] Installing simple_mapper_multiranger script to /home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/crazyflie_ros2_multiranger_simple_mapper
+[1.703s] writing list of installed files to '/home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/install.log'
+[1.733s] Invoked command in '/home/yanyew/mapping/src/crazyflie_ros2_multiranger/crazyflie_ros2_multiranger_simple_mapper' returned '0': PYTHONPATH=/home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/crazyflie_ros2_multiranger_simple_mapper build --build-base /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/build install --record /home/yanyew/mapping/build/crazyflie_ros2_multiranger_simple_mapper/install.log --single-version-externally-managed install_data

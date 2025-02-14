@@ -1,0 +1,21 @@
+[3.489s] Invoking command in '/home/yanyew/mapping/src/crazyflie_ros2_multiranger/crazyflie_ros2_multiranger_wall_following': PYTHONPATH=/home/yanyew/mapping/build/crazyflie_ros2_multiranger_wall_following/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/crazyflie_ros2_multiranger_wall_following build --build-base /home/yanyew/mapping/build/crazyflie_ros2_multiranger_wall_following/build install --record /home/yanyew/mapping/build/crazyflie_ros2_multiranger_wall_following/install.log --single-version-externally-managed install_data
+[4.195s] running egg_info
+[4.196s] writing ../../../build/crazyflie_ros2_multiranger_wall_following/crazyflie_ros2_multiranger_wall_following.egg-info/PKG-INFO
+[4.197s] writing dependency_links to ../../../build/crazyflie_ros2_multiranger_wall_following/crazyflie_ros2_multiranger_wall_following.egg-info/dependency_links.txt
+[4.197s] writing entry points to ../../../build/crazyflie_ros2_multiranger_wall_following/crazyflie_ros2_multiranger_wall_following.egg-info/entry_points.txt
+[4.197s] writing requirements to ../../../build/crazyflie_ros2_multiranger_wall_following/crazyflie_ros2_multiranger_wall_following.egg-info/requires.txt
+[4.197s] writing top-level names to ../../../build/crazyflie_ros2_multiranger_wall_following/crazyflie_ros2_multiranger_wall_following.egg-info/top_level.txt
+[4.201s] reading manifest file '../../../build/crazyflie_ros2_multiranger_wall_following/crazyflie_ros2_multiranger_wall_following.egg-info/SOURCES.txt'
+[4.203s] writing manifest file '../../../build/crazyflie_ros2_multiranger_wall_following/crazyflie_ros2_multiranger_wall_following.egg-info/SOURCES.txt'
+[4.203s] running build
+[4.204s] running build_py
+[4.204s] running install
+[4.205s] running install_lib
+[4.208s] running install_data
+[4.208s] running install_egg_info
+[4.212s] removing '/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following/lib/python3.10/site-packages/crazyflie_ros2_multiranger_wall_following-0.0.0-py3.10.egg-info' (and everything under it)
+[4.213s] Copying ../../../build/crazyflie_ros2_multiranger_wall_following/crazyflie_ros2_multiranger_wall_following.egg-info to /home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following/lib/python3.10/site-packages/crazyflie_ros2_multiranger_wall_following-0.0.0-py3.10.egg-info
+[4.214s] running install_scripts
+[4.262s] Installing wall_following_multiranger script to /home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following/lib/crazyflie_ros2_multiranger_wall_following
+[4.263s] writing list of installed files to '/home/yanyew/mapping/build/crazyflie_ros2_multiranger_wall_following/install.log'
+[4.323s] Invoked command in '/home/yanyew/mapping/src/crazyflie_ros2_multiranger/crazyflie_ros2_multiranger_wall_following' returned '0': PYTHONPATH=/home/yanyew/mapping/build/crazyflie_ros2_multiranger_wall_following/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/crazyflie_ros2_multiranger_wall_following build --build-base /home/yanyew/mapping/build/crazyflie_ros2_multiranger_wall_following/build install --record /home/yanyew/mapping/build/crazyflie_ros2_multiranger_wall_following/install.log --single-version-externally-managed install_data
