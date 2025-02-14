@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/yanyew/mapping/src/crazyswarm2/crazyflie
+CMAKE_SOURCE_DIR = /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/yanyew/mapping/build/crazyflie
+CMAKE_BINARY_DIR = /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie
 
 # Include any dependencies generated for this target.
 include deps/crazyflie_tools/CMakeFiles/battery.dir/depend.make
@@ -70,18 +70,18 @@ include deps/crazyflie_tools/CMakeFiles/battery.dir/progress.make
 include deps/crazyflie_tools/CMakeFiles/battery.dir/flags.make
 
 deps/crazyflie_tools/CMakeFiles/battery.dir/src/battery.cpp.o: deps/crazyflie_tools/CMakeFiles/battery.dir/flags.make
-deps/crazyflie_tools/CMakeFiles/battery.dir/src/battery.cpp.o: /home/yanyew/mapping/src/crazyswarm2/crazyflie/deps/crazyflie_tools/src/battery.cpp
+deps/crazyflie_tools/CMakeFiles/battery.dir/src/battery.cpp.o: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie/deps/crazyflie_tools/src/battery.cpp
 deps/crazyflie_tools/CMakeFiles/battery.dir/src/battery.cpp.o: deps/crazyflie_tools/CMakeFiles/battery.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yanyew/mapping/build/crazyflie/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object deps/crazyflie_tools/CMakeFiles/battery.dir/src/battery.cpp.o"
-	cd /home/yanyew/mapping/build/crazyflie/deps/crazyflie_tools && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT deps/crazyflie_tools/CMakeFiles/battery.dir/src/battery.cpp.o -MF CMakeFiles/battery.dir/src/battery.cpp.o.d -o CMakeFiles/battery.dir/src/battery.cpp.o -c /home/yanyew/mapping/src/crazyswarm2/crazyflie/deps/crazyflie_tools/src/battery.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object deps/crazyflie_tools/CMakeFiles/battery.dir/src/battery.cpp.o"
+	cd /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/deps/crazyflie_tools && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT deps/crazyflie_tools/CMakeFiles/battery.dir/src/battery.cpp.o -MF CMakeFiles/battery.dir/src/battery.cpp.o.d -o CMakeFiles/battery.dir/src/battery.cpp.o -c /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie/deps/crazyflie_tools/src/battery.cpp
 
 deps/crazyflie_tools/CMakeFiles/battery.dir/src/battery.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/battery.dir/src/battery.cpp.i"
-	cd /home/yanyew/mapping/build/crazyflie/deps/crazyflie_tools && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yanyew/mapping/src/crazyswarm2/crazyflie/deps/crazyflie_tools/src/battery.cpp > CMakeFiles/battery.dir/src/battery.cpp.i
+	cd /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/deps/crazyflie_tools && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie/deps/crazyflie_tools/src/battery.cpp > CMakeFiles/battery.dir/src/battery.cpp.i
 
 deps/crazyflie_tools/CMakeFiles/battery.dir/src/battery.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/battery.dir/src/battery.cpp.s"
-	cd /home/yanyew/mapping/build/crazyflie/deps/crazyflie_tools && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yanyew/mapping/src/crazyswarm2/crazyflie/deps/crazyflie_tools/src/battery.cpp -o CMakeFiles/battery.dir/src/battery.cpp.s
+	cd /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/deps/crazyflie_tools && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie/deps/crazyflie_tools/src/battery.cpp -o CMakeFiles/battery.dir/src/battery.cpp.s
 
 # Object files for target battery
 battery_OBJECTS = \
@@ -97,18 +97,18 @@ deps/crazyflie_tools/battery: /usr/lib/x86_64-linux-gnu/libboost_program_options
 deps/crazyflie_tools/battery: deps/crazyflie_tools/crazyflie_cpp/crazyflie-link-cpp/libcrazyflieLinkCpp.a
 deps/crazyflie_tools/battery: /usr/lib/x86_64-linux-gnu/libusb-1.0.so
 deps/crazyflie_tools/battery: deps/crazyflie_tools/CMakeFiles/battery.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yanyew/mapping/build/crazyflie/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable battery"
-	cd /home/yanyew/mapping/build/crazyflie/deps/crazyflie_tools && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/battery.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable battery"
+	cd /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/deps/crazyflie_tools && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/battery.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 deps/crazyflie_tools/CMakeFiles/battery.dir/build: deps/crazyflie_tools/battery
 .PHONY : deps/crazyflie_tools/CMakeFiles/battery.dir/build
 
 deps/crazyflie_tools/CMakeFiles/battery.dir/clean:
-	cd /home/yanyew/mapping/build/crazyflie/deps/crazyflie_tools && $(CMAKE_COMMAND) -P CMakeFiles/battery.dir/cmake_clean.cmake
+	cd /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/deps/crazyflie_tools && $(CMAKE_COMMAND) -P CMakeFiles/battery.dir/cmake_clean.cmake
 .PHONY : deps/crazyflie_tools/CMakeFiles/battery.dir/clean
 
 deps/crazyflie_tools/CMakeFiles/battery.dir/depend:
-	cd /home/yanyew/mapping/build/crazyflie && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/yanyew/mapping/src/crazyswarm2/crazyflie /home/yanyew/mapping/src/crazyswarm2/crazyflie/deps/crazyflie_tools /home/yanyew/mapping/build/crazyflie /home/yanyew/mapping/build/crazyflie/deps/crazyflie_tools /home/yanyew/mapping/build/crazyflie/deps/crazyflie_tools/CMakeFiles/battery.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie/deps/crazyflie_tools /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/deps/crazyflie_tools /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/deps/crazyflie_tools/CMakeFiles/battery.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : deps/crazyflie_tools/CMakeFiles/battery.dir/depend
 

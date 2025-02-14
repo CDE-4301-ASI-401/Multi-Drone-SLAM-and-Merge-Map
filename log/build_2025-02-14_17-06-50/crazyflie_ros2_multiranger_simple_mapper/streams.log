@@ -1,0 +1,37 @@
+[2.253s] Invoking command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyflie_ros2_multiranger/crazyflie_ros2_multiranger_simple_mapper': PYTHONPATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/crazyflie_ros2_multiranger_simple_mapper build --build-base /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/build install --record /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/install.log --single-version-externally-managed install_data
+[2.716s] running egg_info
+[2.719s] creating ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info
+[2.720s] writing ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/PKG-INFO
+[2.720s] writing dependency_links to ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/dependency_links.txt
+[2.720s] writing entry points to ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/entry_points.txt
+[2.720s] writing requirements to ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/requires.txt
+[2.720s] writing top-level names to ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/top_level.txt
+[2.720s] writing manifest file '../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/SOURCES.txt'
+[2.722s] reading manifest file '../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/SOURCES.txt'
+[2.725s] writing manifest file '../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info/SOURCES.txt'
+[2.725s] running build
+[2.725s] running build_py
+[2.725s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/build
+[2.726s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/build/lib
+[2.726s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/build/lib/crazyflie_ros2_multiranger_simple_mapper
+[2.726s] copying crazyflie_ros2_multiranger_simple_mapper/__init__.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/build/lib/crazyflie_ros2_multiranger_simple_mapper
+[2.726s] copying crazyflie_ros2_multiranger_simple_mapper/simple_mapper_multiranger.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/build/lib/crazyflie_ros2_multiranger_simple_mapper
+[2.726s] running install
+[2.727s] running install_lib
+[2.728s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper
+[2.728s] copying /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/build/lib/crazyflie_ros2_multiranger_simple_mapper/__init__.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper
+[2.728s] copying /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/build/lib/crazyflie_ros2_multiranger_simple_mapper/simple_mapper_multiranger.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper
+[2.728s] byte-compiling /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper/__init__.py to __init__.cpython-310.pyc
+[2.729s] byte-compiling /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper/simple_mapper_multiranger.py to simple_mapper_multiranger.cpython-310.pyc
+[2.732s] running install_data
+[2.732s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/share/ament_index
+[2.732s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/share/ament_index/resource_index
+[2.732s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/share/ament_index/resource_index/packages
+[2.732s] copying resource/crazyflie_ros2_multiranger_simple_mapper -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/share/ament_index/resource_index/packages
+[2.732s] copying package.xml -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/share/crazyflie_ros2_multiranger_simple_mapper
+[2.732s] running install_egg_info
+[2.736s] Copying ../../../build/crazyflie_ros2_multiranger_simple_mapper/crazyflie_ros2_multiranger_simple_mapper.egg-info to /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages/crazyflie_ros2_multiranger_simple_mapper-0.0.0-py3.10.egg-info
+[2.737s] running install_scripts
+[2.779s] Installing simple_mapper_multiranger script to /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/lib/crazyflie_ros2_multiranger_simple_mapper
+[2.779s] writing list of installed files to '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/install.log'
+[2.830s] Invoked command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyflie_ros2_multiranger/crazyflie_ros2_multiranger_simple_mapper' returned '0': PYTHONPATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_ros2_multiranger_simple_mapper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/crazyflie_ros2_multiranger_simple_mapper build --build-base /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/build install --record /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_ros2_multiranger_simple_mapper/install.log --single-version-externally-managed install_data

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/yanyew/mapping/src/crazyswarm2/crazyflie_examples
+CMAKE_SOURCE_DIR = /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie_examples
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/yanyew/mapping/build/crazyflie_examples
+CMAKE_BINARY_DIR = /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_examples
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/yanyew/mapping/build/crazyflie_examples && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/yanyew/mapping/src/crazyswarm2/crazyflie_examples /home/yanyew/mapping/src/crazyswarm2/crazyflie_examples /home/yanyew/mapping/build/crazyflie_examples /home/yanyew/mapping/build/crazyflie_examples /home/yanyew/mapping/build/crazyflie_examples/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_examples && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie_examples /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie_examples /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_examples /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_examples /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_examples/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 

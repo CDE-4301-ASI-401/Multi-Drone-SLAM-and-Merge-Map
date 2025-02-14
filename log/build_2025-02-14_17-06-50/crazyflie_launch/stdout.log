@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/crazyflie_launch/crazyflie_launch.egg-info
+writing ../../build/crazyflie_launch/crazyflie_launch.egg-info/PKG-INFO
+writing dependency_links to ../../build/crazyflie_launch/crazyflie_launch.egg-info/dependency_links.txt
+writing entry points to ../../build/crazyflie_launch/crazyflie_launch.egg-info/entry_points.txt
+writing requirements to ../../build/crazyflie_launch/crazyflie_launch.egg-info/requires.txt
+writing top-level names to ../../build/crazyflie_launch/crazyflie_launch.egg-info/top_level.txt
+writing manifest file '../../build/crazyflie_launch/crazyflie_launch.egg-info/SOURCES.txt'
+reading manifest file '../../build/crazyflie_launch/crazyflie_launch.egg-info/SOURCES.txt'
+writing manifest file '../../build/crazyflie_launch/crazyflie_launch.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_launch/build
+creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_launch/build/lib
+creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_launch/build/lib/crazyflie_launch
+copying crazyflie_launch/__init__.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_launch/build/lib/crazyflie_launch
+running install
+running install_lib
+creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/lib/python3.10/site-packages/crazyflie_launch
+copying /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_launch/build/lib/crazyflie_launch/__init__.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/lib/python3.10/site-packages/crazyflie_launch
+byte-compiling /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/lib/python3.10/site-packages/crazyflie_launch/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/share/ament_index
+creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/share/ament_index/resource_index
+creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/share/ament_index/resource_index/packages
+copying resource/crazyflie_launch -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/share/ament_index/resource_index/packages
+copying package.xml -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/share/crazyflie_launch
+creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/share/crazyflie_launch/launch
+copying launch/swarm_mapping.launch.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/share/crazyflie_launch/launch
+running install_egg_info
+Copying ../../build/crazyflie_launch/crazyflie_launch.egg-info to /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_launch/lib/python3.10/site-packages/crazyflie_launch-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_launch/install.log'

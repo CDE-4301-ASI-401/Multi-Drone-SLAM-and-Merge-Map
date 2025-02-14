@@ -1,0 +1,41 @@
+[2.244s] Invoking command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/merge_map': PYTHONPATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/merge_map build --build-base /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/build install --record /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/install.log --single-version-externally-managed install_data
+[2.790s] running egg_info
+[2.791s] creating ../../build/merge_map/merge_map.egg-info
+[2.791s] writing ../../build/merge_map/merge_map.egg-info/PKG-INFO
+[2.792s] writing dependency_links to ../../build/merge_map/merge_map.egg-info/dependency_links.txt
+[2.792s] writing entry points to ../../build/merge_map/merge_map.egg-info/entry_points.txt
+[2.792s] writing requirements to ../../build/merge_map/merge_map.egg-info/requires.txt
+[2.792s] writing top-level names to ../../build/merge_map/merge_map.egg-info/top_level.txt
+[2.792s] writing manifest file '../../build/merge_map/merge_map.egg-info/SOURCES.txt'
+[2.795s] reading manifest file '../../build/merge_map/merge_map.egg-info/SOURCES.txt'
+[2.796s] writing manifest file '../../build/merge_map/merge_map.egg-info/SOURCES.txt'
+[2.796s] running build
+[2.796s] running build_py
+[2.796s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/build
+[2.796s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/build/lib
+[2.796s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/build/lib/merge_map
+[2.797s] copying merge_map/__init__.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/build/lib/merge_map
+[2.797s] copying merge_map/merge_map.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/build/lib/merge_map
+[2.797s] running install
+[2.797s] running install_lib
+[2.798s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/lib/python3.10/site-packages/merge_map
+[2.798s] copying /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/build/lib/merge_map/__init__.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/lib/python3.10/site-packages/merge_map
+[2.798s] copying /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/build/lib/merge_map/merge_map.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/lib/python3.10/site-packages/merge_map
+[2.799s] byte-compiling /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/lib/python3.10/site-packages/merge_map/__init__.py to __init__.cpython-310.pyc
+[2.799s] byte-compiling /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/lib/python3.10/site-packages/merge_map/merge_map.py to merge_map.cpython-310.pyc
+[2.801s] running install_data
+[2.801s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/share/ament_index
+[2.801s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/share/ament_index/resource_index
+[2.801s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/share/ament_index/resource_index/packages
+[2.801s] copying resource/merge_map -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/share/ament_index/resource_index/packages
+[2.801s] copying package.xml -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/share/merge_map
+[2.802s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/share/merge_map/launch
+[2.802s] copying launch/merge_map_launch.py -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/share/merge_map/launch
+[2.802s] creating /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/share/merge_map/config
+[2.802s] copying config/merge_map.rviz -> /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/share/merge_map/config
+[2.802s] running install_egg_info
+[2.805s] Copying ../../build/merge_map/merge_map.egg-info to /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/lib/python3.10/site-packages/merge_map-0.0.0-py3.10.egg-info
+[2.806s] running install_scripts
+[2.832s] Installing merge_map script to /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/lib/merge_map
+[2.833s] writing list of installed files to '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/install.log'
+[2.875s] Invoked command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/merge_map' returned '0': PYTHONPATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/merge_map/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/merge_map build --build-base /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/build install --record /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/merge_map/install.log --single-version-externally-managed install_data

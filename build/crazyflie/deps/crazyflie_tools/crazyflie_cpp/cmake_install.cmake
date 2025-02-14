@@ -1,8 +1,8 @@
-# Install script for directory: /home/yanyew/mapping/src/crazyswarm2/crazyflie/deps/crazyflie_tools/crazyflie_cpp
+# Install script for directory: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie/deps/crazyflie_tools/crazyflie_cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/yanyew/mapping/install/crazyflie")
+  set(CMAKE_INSTALL_PREFIX "/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

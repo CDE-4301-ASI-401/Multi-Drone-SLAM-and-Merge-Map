@@ -1,0 +1,143 @@
+[0.321s] Invoking command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim': AMENT_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_gazebo:/home/yanyew/mapping/install/crazyflie_sim:/home/yanyew/mapping/install/crazyflie_examples:/home/yanyew/mapping/install/crazyflie:/home/yanyew/mapping/install/crazyflie_interfaces:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/lib:/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie_sim -DCMAKE_INSTALL_PREFIX=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim
+[0.369s] -- The C compiler identification is GNU 11.4.0
+[0.420s] -- The CXX compiler identification is GNU 11.4.0
+[0.427s] -- Detecting C compiler ABI info
+[0.485s] -- Detecting C compiler ABI info - done
+[0.493s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.493s] -- Detecting C compile features
+[0.493s] -- Detecting C compile features - done
+[0.496s] -- Detecting CXX compiler ABI info
+[0.564s] -- Detecting CXX compiler ABI info - done
+[0.578s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.578s] -- Detecting CXX compile features
+[0.579s] -- Detecting CXX compile features - done
+[0.584s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.756s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.973s] -- Found ament_cmake_pytest: 1.3.11 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[2.707s] -- Configuring done
+[2.714s] -- Generating done
+[2.718s] -- Build files have been written to: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim
+[2.724s] Invoked command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim' returned '0': AMENT_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_gazebo:/home/yanyew/mapping/install/crazyflie_sim:/home/yanyew/mapping/install/crazyflie_examples:/home/yanyew/mapping/install/crazyflie:/home/yanyew/mapping/install/crazyflie_interfaces:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/lib:/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie_sim -DCMAKE_INSTALL_PREFIX=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim
+[2.726s] Invoking command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim': AMENT_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_gazebo:/home/yanyew/mapping/install/crazyflie_sim:/home/yanyew/mapping/install/crazyflie_examples:/home/yanyew/mapping/install/crazyflie:/home/yanyew/mapping/install/crazyflie_interfaces:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/lib:/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim -- -j12 -l12
+[2.783s] Built target ament_cmake_python_copy_crazyflie_sim_setup
+[2.799s] Built target ament_cmake_python_copy_crazyflie_sim
+[3.138s] running install_scripts
+[3.140s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.141s]   warnings.warn(
+[3.166s] running egg_info
+[3.167s] creating crazyflie_sim.egg-info
+[3.168s] writing crazyflie_sim.egg-info/PKG-INFO
+[3.168s] writing dependency_links to crazyflie_sim.egg-info/dependency_links.txt
+[3.168s] writing entry points to crazyflie_sim.egg-info/entry_points.txt
+[3.168s] writing top-level names to crazyflie_sim.egg-info/top_level.txt
+[3.169s] writing manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[3.170s] reading manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[3.171s] writing manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[3.173s] Installing crazyflie_server script to scripts
+[3.204s] running egg_info
+[3.205s] writing crazyflie_sim.egg-info/PKG-INFO
+[3.206s] writing dependency_links to crazyflie_sim.egg-info/dependency_links.txt
+[3.206s] writing entry points to crazyflie_sim.egg-info/entry_points.txt
+[3.206s] writing top-level names to crazyflie_sim.egg-info/top_level.txt
+[3.210s] reading manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[3.210s] writing manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[3.212s] Built target ament_cmake_python_build_crazyflie_sim_scripts
+[3.250s] Built target ament_cmake_python_build_crazyflie_sim_egg
+[3.261s] Invoked command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim' returned '0': AMENT_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_gazebo:/home/yanyew/mapping/install/crazyflie_sim:/home/yanyew/mapping/install/crazyflie_examples:/home/yanyew/mapping/install/crazyflie:/home/yanyew/mapping/install/crazyflie_interfaces:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/lib:/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim -- -j12 -l12
+[3.262s] Invoking command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim': AMENT_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_gazebo:/home/yanyew/mapping/install/crazyflie_sim:/home/yanyew/mapping/install/crazyflie_examples:/home/yanyew/mapping/install/crazyflie:/home/yanyew/mapping/install/crazyflie_interfaces:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/lib:/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim
+[3.269s] -- Install configuration: ""
+[3.270s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/environment/pythonpath.sh
+[3.270s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/environment/pythonpath.dsv
+[3.270s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info
+[3.270s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/PKG-INFO
+[3.270s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/top_level.txt
+[3.270s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/entry_points.txt
+[3.270s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/dependency_links.txt
+[3.270s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/SOURCES.txt
+[3.270s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/lib/crazyflie_sim/
+[3.271s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/lib/crazyflie_sim//crazyflie_server
+[3.271s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim
+[3.271s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/__init__.py
+[3.271s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_sil.py
+[3.271s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_server.py
+[3.271s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization
+[3.271s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/pdf.py
+[3.271s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data
+[3.272s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model
+[3.272s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model/cf.obj
+[3.272s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model/cf.mtl
+[3.272s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/README.md
+[3.272s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env
+[3.272s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/abandoned_greenhouse.jpg
+[3.273s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/lago_disola.jpg
+[3.273s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/derelict_overpass.jpg
+[3.273s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/crosswalk.jpg
+[3.273s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/env.jpg
+[3.274s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/aviation_museum.jpg
+[3.274s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/lake_pier.jpg
+[3.274s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/peppermint_powerplant.jpg
+[3.274s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/machine_shop.jpg
+[3.275s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/studio_garden.jpg
+[3.275s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/museumplein.jpg
+[3.275s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/aerodynamics_workshop.jpg
+[3.276s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/record_states.py
+[3.276s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/README.md
+[3.276s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/rviz.py
+[3.276s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/blender.py
+[3.276s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend
+[3.276s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/dynobench.py
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/neuralswarm.py
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/pinocchio
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/pinocchio/crazyflie2.urdf
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/dynobench
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/dynobench/crazyflie2.yaml
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2/rho_S.pth
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2/rho_L.pth
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2/phi_S.pth
+[3.277s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2/phi_G.pth
+[3.278s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2/phi_L.pth
+[3.278s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/np.py
+[3.278s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/none.py
+[3.278s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/pinocchio.py
+[3.278s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/sim_data_types.py
+[3.332s] Listing '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim'...
+[3.332s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/__init__.py'...
+[3.332s] Listing '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend'...
+[3.332s] Listing '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data'...
+[3.333s] Listing '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/dynobench'...
+[3.333s] Listing '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/neuralswarm2'...
+[3.333s] Listing '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/data/pinocchio'...
+[3.333s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/dynobench.py'...
+[3.333s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/neuralswarm.py'...
+[3.333s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/none.py'...
+[3.333s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/np.py'...
+[3.333s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/pinocchio.py'...
+[3.333s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_server.py'...
+[3.333s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_sil.py'...
+[3.333s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/sim_data_types.py'...
+[3.333s] Listing '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization'...
+[3.333s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/blender.py'...
+[3.333s] Listing '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data'...
+[3.334s] Listing '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env'...
+[3.334s] Listing '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model'...
+[3.334s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/pdf.py'...
+[3.334s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/record_states.py'...
+[3.334s] Compiling '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/rviz.py'...
+[3.338s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/ament_index/resource_index/package_run_dependencies/crazyflie_sim
+[3.338s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/ament_index/resource_index/parent_prefix_path/crazyflie_sim
+[3.338s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/environment/ament_prefix_path.sh
+[3.338s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/environment/ament_prefix_path.dsv
+[3.338s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/environment/path.sh
+[3.338s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/environment/path.dsv
+[3.338s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/local_setup.bash
+[3.338s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/local_setup.sh
+[3.339s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/local_setup.zsh
+[3.339s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/local_setup.dsv
+[3.339s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/package.dsv
+[3.339s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/ament_index/resource_index/packages/crazyflie_sim
+[3.339s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/cmake/crazyflie_simConfig.cmake
+[3.339s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/cmake/crazyflie_simConfig-version.cmake
+[3.339s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_sim/share/crazyflie_sim/package.xml
+[3.342s] Invoked command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim' returned '0': AMENT_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_bringup:/home/yanyew/mapping/install/ros_gz_crazyflie_gazebo:/home/yanyew/mapping/install/crazyflie_sim:/home/yanyew/mapping/install/crazyflie_examples:/home/yanyew/mapping/install/crazyflie:/home/yanyew/mapping/install/crazyflie_interfaces:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble LD_LIBRARY_PATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/lib:/home/yanyew/mapping/install/crazyflie_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie_sim

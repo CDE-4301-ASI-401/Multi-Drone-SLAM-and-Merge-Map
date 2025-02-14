@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/yanyew/mapping/src/crazyswarm2/crazyflie/deps/crazyflie_tools
-# Build directory: /home/yanyew/mapping/build/crazyflie/deps/crazyflie_tools
+# Source directory: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie/deps/crazyflie_tools
+# Build directory: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/deps/crazyflie_tools
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

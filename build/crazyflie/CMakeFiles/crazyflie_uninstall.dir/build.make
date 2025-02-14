@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/yanyew/mapping/src/crazyswarm2/crazyflie
+CMAKE_SOURCE_DIR = /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/yanyew/mapping/build/crazyflie
+CMAKE_BINARY_DIR = /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie
 
 # Utility rule file for crazyflie_uninstall.
 
@@ -67,7 +67,7 @@ include CMakeFiles/crazyflie_uninstall.dir/compiler_depend.make
 include CMakeFiles/crazyflie_uninstall.dir/progress.make
 
 CMakeFiles/crazyflie_uninstall:
-	/usr/bin/cmake -P /home/yanyew/mapping/build/crazyflie/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
+	/usr/bin/cmake -P /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
 
 crazyflie_uninstall: CMakeFiles/crazyflie_uninstall
 crazyflie_uninstall: CMakeFiles/crazyflie_uninstall.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/crazyflie_uninstall.dir/clean:
 .PHONY : CMakeFiles/crazyflie_uninstall.dir/clean
 
 CMakeFiles/crazyflie_uninstall.dir/depend:
-	cd /home/yanyew/mapping/build/crazyflie && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/yanyew/mapping/src/crazyswarm2/crazyflie /home/yanyew/mapping/src/crazyswarm2/crazyflie /home/yanyew/mapping/build/crazyflie /home/yanyew/mapping/build/crazyflie /home/yanyew/mapping/build/crazyflie/CMakeFiles/crazyflie_uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/crazyswarm2/crazyflie /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/crazyflie/CMakeFiles/crazyflie_uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/crazyflie_uninstall.dir/depend
 

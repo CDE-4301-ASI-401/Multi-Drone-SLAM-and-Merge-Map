@@ -22,7 +22,7 @@ robots:
   cf14:
     enabled: true
     uri: radio://0/60/2M/E7E7E7E714
-    initial_position: [1.23, -3.17, 0.0]
+    initial_position: [1.23, -3.14, 0.0]
     type: cf21  # see robot_types
   # cf04:
   #   enabled: true

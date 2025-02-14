@@ -1,0 +1,42 @@
+[0.038s] Invoking command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble /usr/bin/cmake /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/ros_gz_crazyflie/ros_gz_crazyflie_gazebo -DCMAKE_INSTALL_PREFIX=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo
+[1.619s] -- The C compiler identification is GNU 11.4.0
+[1.619s] -- The CXX compiler identification is GNU 11.4.0
+[1.619s] -- Detecting C compiler ABI info
+[1.619s] -- Detecting C compiler ABI info - done
+[1.619s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.620s] -- Detecting C compile features
+[1.620s] -- Detecting C compile features - done
+[1.620s] -- Detecting CXX compiler ABI info
+[1.620s] -- Detecting CXX compiler ABI info - done
+[1.620s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.620s] -- Detecting CXX compile features
+[1.620s] -- Detecting CXX compile features - done
+[1.620s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.620s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.620s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.620s] -- Configuring done
+[1.620s] -- Generating done
+[1.620s] -- Build files have been written to: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo
+[1.621s] Invoked command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble /usr/bin/cmake /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/src/ros_gz_crazyflie/ros_gz_crazyflie_gazebo -DCMAKE_INSTALL_PREFIX=/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo
+[1.621s] Invoking command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble /usr/bin/cmake --build /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo -- -j12 -l12
+[1.660s] Invoked command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble /usr/bin/cmake --build /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo -- -j12 -l12
+[1.674s] Invoking command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble /usr/bin/cmake --install /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo
+[1.684s] -- Install configuration: ""
+[1.685s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/worlds
+[1.685s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/worlds/crazyflie_world.sdf
+[1.686s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ament_index/resource_index/package_run_dependencies/ros_gz_crazyflie_gazebo
+[1.686s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ament_index/resource_index/parent_prefix_path/ros_gz_crazyflie_gazebo
+[1.686s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/environment/ament_prefix_path.sh
+[1.686s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/environment/ament_prefix_path.dsv
+[1.686s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/environment/path.sh
+[1.686s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/environment/path.dsv
+[1.687s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/local_setup.bash
+[1.687s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/local_setup.sh
+[1.687s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/local_setup.zsh
+[1.687s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/local_setup.dsv
+[1.687s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/package.dsv
+[1.687s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ament_index/resource_index/packages/ros_gz_crazyflie_gazebo
+[1.687s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/cmake/ros_gz_crazyflie_gazeboConfig.cmake
+[1.687s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/cmake/ros_gz_crazyflie_gazeboConfig-version.cmake
+[1.688s] -- Installing: /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/install/ros_gz_crazyflie_gazebo/share/ros_gz_crazyflie_gazebo/package.xml
+[1.691s] Invoked command in '/home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yanyew/mapping/install/ros_gz_crazyflie_control:/home/yanyew/mapping/install/merge_map:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_wall_following:/home/yanyew/mapping/install/crazyflie_ros2_multiranger_simple_mapper:/home/yanyew/mapping/install/crazyflie_py:/home/yanyew/mapping/install/crazyflie_launch:/opt/ros/humble /usr/bin/cmake --install /home/yanyew/Multi-Drone-SLAM-and-Merge-Map/build/ros_gz_crazyflie_gazebo
